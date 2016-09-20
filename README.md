@@ -1,6 +1,6 @@
 # Social code
 Don't code alone!
-A web app for developers, to gather and collaborate.
+The web app for developers, to gather and collaborate.
 
 This project is the result of one week's work between five people. It currently has reached the stage of V1 (MVP).
 
