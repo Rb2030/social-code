@@ -2,6 +2,40 @@
 Don't code alone!
 A web app for developers, to gather and collaborate.
 
+This project is the result of one week's work between five people. It currently has reached the stage of V1 (MVP).
+
+Made as part of the course at Makers Academy.
+
+# App Description
+
+A web application that allows users to add places that they are coding in public spaces, and to encourage users to meet and code together.
+
+# Initial Setup
+
+When running this program, you need to enter the following lines on the command-line after cloning/forking:
+- bundle
+- bin/rails db:create
+- bin/rails db:migrate
+- bin/rails db:migrate RAILS_ENV=test
+- bin/rake db:seed
+- bin/rake db:seed RAILS_ENV=test
+
+# Testing framework
+
+All tests throughout the stack are done in Rspec and Capybara.
+
+# Technologies
+
+The application is built using the Google Maps API, Ruby on Rails backend, running with a PostgreSQL database.
+
+# Contributors
+- [Carlos] (https://github.com/chdezmar)
+- [Hassan] (https://github.com/hassanrad)
+- [Jonathon] (https://github.com/jojograndjojo)
+- [Ross] (https://github.com/rb2030)
+- [Toby] (https://github.com/toby676)
+
+# User Stories
 ## V1 (MVP)
 
 ```
