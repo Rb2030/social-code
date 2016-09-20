@@ -1,5 +1,5 @@
 # Social code
-Don't code alone.
+Don't code alone!
 A web app for developers, to gather and collaborate.
 
 ## V1 (MVP)
